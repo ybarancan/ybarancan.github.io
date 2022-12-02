@@ -1,4 +1,1 @@
-theme: minima
-
-
-Temp
+Resume: ![Resume](YigitBaranCanResumeNew.pdf)
