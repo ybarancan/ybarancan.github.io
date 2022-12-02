@@ -1,1 +1,1 @@
-![Resume](YigitBaranCan_ResumeNew.png)
+![Resume](YigitBaranCan_ResumeNew.pdf)
